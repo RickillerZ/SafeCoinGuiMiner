@@ -1,0 +1,2 @@
+# SafeCoinGuiMiner
+SafeCoin Gui Miner
